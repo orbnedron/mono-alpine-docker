@@ -2,4 +2,4 @@
 
 This is a base image running alpine with mono installed
 
-Mono version: 5.20.1.19 (2020-04-07)
+Mono version: See https://raw.githubusercontent.com/orbnedron/mono-alpine-docker/master/mono-version
